@@ -1,0 +1,21 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# Dataset folders
+training_set/
+test_set/
+
+# Generated prediction masks
+test_set_pred_masks/
+
+# Temporary files
+.ipynb_checkpoints/
+.env

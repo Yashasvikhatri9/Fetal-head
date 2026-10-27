@@ -1,0 +1,17 @@
+{
+  "evaluation_only": true,
+  "training_performed": false,
+  "threshold": 0.5,
+  "img_size": 256,
+  "batch_size": 4,
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 2050",
+  "torch": "2.13.0+cu130",
+  "python": "3.11.9",
+  "n_train": 799,
+  "n_val": 200,
+  "missing_or_failed_models": {},
+  "histories_loaded": [
+    "Standard U-Net"
+  ]
+}
